@@ -3,7 +3,7 @@
 DeepLM: Large-scale Nonlinear Least Squares on Deep Learning Frameworks using Stochastic Domain Decomposition (CVPR 2021)
 
 <!-- ## Processing Result -->
-<center>![DeepLM Results](https://github.com/hjwdzh/DeepLM/raw/main/imgs/teaser.jpg)</center>
+![DeepLM Results](https://github.com/hjwdzh/DeepLM/raw/main/imgs/teaser.jpg)
 
 ### Run
 Please install the following
