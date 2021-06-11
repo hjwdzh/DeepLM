@@ -1,3 +1,6 @@
+#download submodule
+git submodule update --init --recursive
+
 #compile
 mkdir build
 cd build
