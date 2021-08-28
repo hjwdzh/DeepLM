@@ -24,7 +24,7 @@ Please check the examples folder for more application and features.
 ## Author
 - [Jingwei Huang](mailto:jingweih@stanford.edu)
 
-&copy; 2019 Jingwei Huang All Rights Reserved
+&copy; 2021 Jingwei Huang All Rights Reserved
 
 **IMPORTANT**: If you use this code please cite the following in any resulting publication:
 ```
